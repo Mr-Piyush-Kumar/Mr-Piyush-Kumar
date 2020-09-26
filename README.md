@@ -1,16 +1,24 @@
-### Hello and Welcome to my profile 😊
+### Hello and welcome to my profile 😊
 
-<!--
-**Mr-Piyush-Kumar/Mr-Piyush-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⎆ I have recently started working as Freelance Data Scientist (Hire me on <a href='https://www.upwork.com/o/profiles/users/~018931749836781421/'>upwork</a>).  
+⎆ I am also ready to join a full time opprtunity.    
+⎆ I am currently learning AWS.      
+      
+### ⏩ Introduction    
+Experienced in Python and Database with 2 years of professional experience. I can offer you great data analysis, attractive data visualisation, data extraction (web scrapping, web APIs), data wrangling, image processing, text processing, NLP and computer vision model creation.
 
-Here are some ideas to get you started:
+I have bachelor degree in Information Technology with honours and I have received Data Science professional training from Infosys and IBM.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⏩ My skills include  
+⎆ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy, etc)
+⎆ SQL (RDBMS, Oracle Database, MySQL, SQLServer)
+⎆ Machine Learning (XGBoost, CatBoost, Logistic Regression, Linear Regression, Random Forest, Feature Extraction)
+⎆ Deep Learning (MLP, CNN, RNN, LSTM, Tensorflow, Keras)
+⎆ Data Analysis
+⎆ Data Visualisation (MS PowerBI)
+⎆ Data Extraction
+⎆ Web Scrapping (Selenium, Beautiful Soup)
+⎆ Natural Language Processing (NLTK, Deep Learning)
+⎆ Computer Vision (OpenCV, Deep Learning)
+⎆ Unix/Linux
+⎆ A/B testing
