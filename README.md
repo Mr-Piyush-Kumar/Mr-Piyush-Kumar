@@ -10,15 +10,15 @@ Experienced in Python and Database with 2 years of professional experience. I ca
 I have bachelor degree in Information Technology with honours and I have received Data Science professional training from Infosys and IBM.  
 
 ### ⏩ My skills include  
-⎆ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy, etc)
-⎆ SQL (RDBMS, Oracle Database, MySQL, SQLServer)
-⎆ Machine Learning (XGBoost, CatBoost, Logistic Regression, Linear Regression, Random Forest, Feature Extraction)
-⎆ Deep Learning (MLP, CNN, RNN, LSTM, Tensorflow, Keras)
-⎆ Data Analysis
-⎆ Data Visualisation (MS PowerBI)
-⎆ Data Extraction
-⎆ Web Scrapping (Selenium, Beautiful Soup)
-⎆ Natural Language Processing (NLTK, Deep Learning)
-⎆ Computer Vision (OpenCV, Deep Learning)
-⎆ Unix/Linux
-⎆ A/B testing
+⎆ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy, etc)  
+⎆ SQL (RDBMS, Oracle Database, MySQL, SQLServer)  
+⎆ Machine Learning (XGBoost, CatBoost, Logistic Regression, Linear Regression, Random Forest, Feature Extraction)  
+⎆ Deep Learning (MLP, CNN, RNN, LSTM, Tensorflow, Keras)   
+⎆ Data Analysis  
+⎆ Data Visualisation (MS PowerBI)  
+⎆ Data Extraction  
+⎆ Web Scrapping (Selenium, Beautiful Soup)  
+⎆ Natural Language Processing (NLTK, Deep Learning)  
+⎆ Computer Vision (OpenCV, Deep Learning)  
+⎆ Unix/Linux  
+⎆ A/B testing  
