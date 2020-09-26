@@ -28,4 +28,4 @@ Go to repository <a href = 'https://github.com/Mr-Piyush-Kumar/Data_Science_Proj
   
 ### ⏩ Contact me  
 ⎆ <a href = 'https://www.linkedin.com/in/piyushkumar7668/'>LinkedIn</a>  
-⎆ <a href = 'mailto: piyushkumar7668@gmail.com'>Gmail</a>  
+⎆ <a href = 'mailto: piyushkumar7668@gmail.com'>Gmail (piyushkumar7668@gmail.com)</a>  
