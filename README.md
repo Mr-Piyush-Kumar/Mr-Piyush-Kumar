@@ -21,4 +21,11 @@ I have bachelor degree in Information Technology with honours and I have receive
 ⎆ Natural Language Processing (NLTK, Deep Learning)  
 ⎆ Computer Vision (OpenCV, Deep Learning)  
 ⎆ Unix/Linux  
-⎆ A/B testing  
+⎆ A/B testing   
+  
+### ⏩ Want to see my work
+Go to repository <a href = 'https://github.com/Mr-Piyush-Kumar/Data_Science_Projects'>Data_Science_Projects</a>   
+  
+### ⏩ Contact me  
+⎆ <a href = 'https://www.linkedin.com/in/piyushkumar7668/'>LinkedIn</a>  
+⎆ <a href = 'piyushkumar7668@gmail.com'>Gmail</a>  
