@@ -17,7 +17,8 @@ I have bachelor degree in Information Technology with honours and I have receive
 ⎆ Data Analysis  
 ⎆ Data Visualisation (MS PowerBI)  
 ⎆ Data Extraction  
-⎆ Web Scrapping (Selenium, Beautiful Soup)  
+⎆ Web Scrapping (Selenium, Beautiful Soup)
+⎆ Json Handling
 ⎆ Natural Language Processing (NLTK, Deep Learning)  
 ⎆ Computer Vision (OpenCV, Deep Learning)  
 ⎆ Unix/Linux  
