@@ -1,6 +1,6 @@
 ### Hello and welcome to my profile 😊
 
-⎆ I am working as a Freelance Data Scientist (Hire me on <a href='https://www.upwork.com/o/profiles/users/~018931749836781421/'>upwork</a>).  
+⎆ I am currently working as a Freelance Data Scientist (Hire me on <a href='https://www.upwork.com/o/profiles/users/~018931749836781421/'>upwork</a>).  
 ⎆ I am also ready to join a full time opprtunity.    
 ⎆ I am currently learning AWS.      
       
