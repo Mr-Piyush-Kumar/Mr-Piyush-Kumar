@@ -5,7 +5,7 @@
 ⎆ I am currently learning AWS.      
       
 ### ⏩ Introduction    
-A top-rated freelancer on Upwork having around 3 years of working experience in Python and Data Science domain. I can offer Great Data Analysis, Attractive Data Visualization, Data Extraction (Web Scrapping, Web APIs), Data Wrangling, Image Processing, Text Processing, Machine Learning and Deep Learning model creation. I have bachelor degree in Information Technology with honours and I have received Data Science training from Infosys and IBM.  
+A top-rated freelancer on Upwork having around 3 years of working experience in Python and Data Science domain. I can offer Great Data Analysis, Attractive Data Visualization, Data Extraction (Web Scrapping, Web APIs), Data Wrangling, Image Processing, Text Processing, Machine Learning and Deep Learning model creation. I have a bachelor degree in Information Technology with honours and I have received Data Science training from Infosys and IBM.  
 
 ### ⏩ My skills include  
 ⎆ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy, etc)  
