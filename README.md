@@ -1,6 +1,6 @@
 ### Hello and welcome to my profile 😊
-⎆ I am currently working as Senior Software Engineer (Data Science) at Mirafra Software Technology PVT. LTD.
-⎆ To See my Freelancing Profile, Please click on link below
+⎆ I am currently working as Senior Software Engineer (Data Science) at Mirafra Software Technology PVT. LTD.  
+⎆ To See my Freelancing Profile, Please click on link below  
  (<a href='https://www.upwork.com/o/profiles/users/~018931749836781421/'>upwork</a>).       
       
 ### ⏩ Introduction    
